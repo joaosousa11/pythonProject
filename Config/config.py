@@ -11,7 +11,7 @@ class Config:
 
     REPORT_PATH = 'C:\\Users\\Joao Sousa\\PycharmProjects\\pythonProject_Test\\Reports'
 
-    FNAME = 'FTest7'
-    LNAME = 'LTest7'
-    EMAIL = 'newuser.smartex7@gmail.com'
+    FNAME = 'FTest8'
+    LNAME = 'LTest8'
+    EMAIL = 'newuser.smartex8@gmail.com'
     PASSWORD = 'testingpassword'
